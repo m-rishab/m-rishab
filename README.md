@@ -1,3 +1,4 @@
+![logo](Logo.png)
 <h1 align="center">Hi 👋, I'm Rishabh Mishra</h1>
 <h3 align="center">🔭 I’m currently exploring the world of data science and machine learning, eager to apply my skills to real-world challenges. My academic background in [B.Tech,CSE(AI & ML)] has equipped me with a strong foundation in statistics, programming, and problem-solving.</h3>
 
