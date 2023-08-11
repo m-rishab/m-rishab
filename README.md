@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Mishra</h1>
 <h3 align="center">🔭 I’m currently exploring the world of data science and machine learning, eager to apply my skills to real-world challenges. My academic background in [B.Tech,CSE(AI & ML)] has equipped me with a strong foundation in statistics, programming, and problem-solving.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/m-rishab/m-rishab/assets/113618652/6c07b075-6184-43af-99ff-012057507114)
-">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/m-rishab/m-rishab/assets/113618652/6c07b075-6184-43af-99ff-012057507114)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-rishab&label=Profile%20views&color=0e75b6&style=flat" alt="m-rishab" /> </p>
 
