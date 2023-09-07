@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-rishab&label=Profile%20views&color=0e75b6&style=flat" alt="m-rishab" /> </p>
 
-- 📫 How to reach me **notsorishi@gmail.com**
+- 📫 How to reach me **rish.mishra130801@gmail.com**
 
 - ⚡ Fun fact : **Data scientists can find hidden insights in petabytes of data faster than a caffeinated squirrel solving a jigsaw puzzle!**
 
